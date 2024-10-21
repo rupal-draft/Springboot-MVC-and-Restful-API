@@ -36,13 +36,13 @@ In this project, I have implemented:
 
 ## API Documentation
 
-You can find detailed documentation for all API endpoints (including request/response examples and validation) in the attached [Postman Documentation]([#](https://documenter.getpostman.com/view/30415721/2sAXxY48ih)).
+You can find detailed documentation for all API endpoints (including request/response examples and validation) in the attached [Postman Documentation]((https://documenter.getpostman.com/view/30415721/2sAXxY48ih)).
 
 ## How to Run
 
 1. **Clone the Repository**:
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/rupal-draft/Springboot-MVC-and-Restful-API.git>
     ```
 
 2. **Navigate to the Project Directory**:
