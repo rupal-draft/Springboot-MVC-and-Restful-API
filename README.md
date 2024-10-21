@@ -36,7 +36,7 @@ In this project, I have implemented:
 
 ## API Documentation
 
-For detailed API documentation, visit [Alaap Documentation](https://documenter.getpostman.com/view/30415721/2sAXxY48ih).
+For detailed API documentation, visit [Postman Documentation](https://documenter.getpostman.com/view/30415721/2sAXxY48ih).
 
 ## How to Run
 
