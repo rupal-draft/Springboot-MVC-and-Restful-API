@@ -36,7 +36,7 @@ In this project, I have implemented:
 
 ## API Documentation
 
-You can find detailed documentation for all API endpoints (including request/response examples and validation) in the attached [Postman Documentation]((https://documenter.getpostman.com/view/30415721/2sAXxY48ih)).
+For detailed API documentation, visit [Alaap Documentation](https://documenter.getpostman.com/view/30415721/2sAXxY48ih).
 
 ## How to Run
 
@@ -75,7 +75,4 @@ The following validation annotations are used:
 The project has robust exception handling:
 - Custom exceptions for resource not found, invalid input, etc.
 - Global exception handler to catch and format errors with relevant status codes.
-
-## License
-This project is licensed under the MIT License.
 
